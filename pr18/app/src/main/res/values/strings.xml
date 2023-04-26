@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prakt_18</string>
+    <string-array name="list_items">
+        <item>Выпить кофе</item>
+        <item>Проколоть ухо</item>
+        <item>Покормить куриц</item>
+        <item>Строить дом</item>
+        <item>Работать в магазине</item>
+    </string-array>
+</resources>
